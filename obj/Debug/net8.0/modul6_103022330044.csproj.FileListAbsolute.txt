@@ -1,0 +1,15 @@
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\bin\Debug\net8.0\modul6_103022330044.exe
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\bin\Debug\net8.0\modul6_103022330044.deps.json
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\bin\Debug\net8.0\modul6_103022330044.runtimeconfig.json
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\bin\Debug\net8.0\modul6_103022330044.dll
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\bin\Debug\net8.0\modul6_103022330044.pdb
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.AssemblyInfoInputs.cache
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.AssemblyInfo.cs
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.csproj.CoreCompileInputs.cache
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.sourcelink.json
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.dll
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\refint\modul6_103022330044.dll
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.pdb
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\modul6_103022330044.genruntimeconfig.cache
+C:\Users\Rakan\Documents\Telkom\SMT4\KPL\modul6_103022330044\obj\Debug\net8.0\ref\modul6_103022330044.dll
